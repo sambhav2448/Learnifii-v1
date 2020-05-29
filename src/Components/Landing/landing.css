@@ -1,0 +1,11 @@
+.landing-button{
+    margin-top: 6px !important;
+}
+
+.btn-dangerr{
+    background-color: #ee921a;
+}
+
+.btn-dangerr:hover{
+    background-color: #ce7f18;
+}

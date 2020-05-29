@@ -1,0 +1,23 @@
+
+
+@media screen and (max-width: 770px) {
+    .form-inline>.form-control {
+        display: none !important;
+    }
+    
+  }
+  
+
+  @media screen and (max-width: 770px) {
+
+    .d-flex justify-content-between navtop navbar{
+            display: flex;
+            justify-content: space-between;
+    }
+  
+    .username-class{
+      display: none;
+    }
+  }
+  
+  

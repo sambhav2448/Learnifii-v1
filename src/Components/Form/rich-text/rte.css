@@ -1,0 +1,44 @@
+.rte{
+    position: absolute;
+    width: 50%;
+    height: 30%;
+    left:35%;
+    top:50%;
+}
+
+.RichTextEditor__editor___1QqIU {
+    height: 150px !important;
+    font-family: 'Open Sans', sans-serif !important;      
+    
+}
+
+.RichTextEditor__editor___1QqIU:focus {
+    outline: red;
+    background: yellowgreen;
+     
+}
+
+.RichTextEditor__root___2QXK- {
+   
+    width: 100%;
+   
+}
+/* /////////////// Landing button */
+
+.landing-button{
+    padding: 6px 37px;
+}
+
+p{
+    margin-bottom: 0!important ;
+}
+
+.RichTextEditor__root___2QXK-:hover {
+    background: #fff;
+    border: 1px solid #000;
+    border-radius: 3px;
+    font-family: Georgia,serif;
+    font-size: 14px;
+   
+}
+

@@ -1,0 +1,90 @@
+.content{
+    position: absolute;
+    margin-top:28%;
+   margin-left:48%;
+   width:480px;
+  
+}
+
+@media only screen and (max-width: 770px) {
+    .content{
+        margin-top: 88%;
+    margin-left: 10%;
+    width: 80%;
+    font-size: 18px;
+      
+    }
+  }
+  
+
+.bold{
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.buttonclass{
+    padding:6px 50px;
+    margin-top: 8px;
+}
+
+.marginp{
+    margin-bottom: 10px !important;
+}
+
+
+.sectionStyle{
+
+
+    width: 90%;
+    height: 90vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url("./img/bgimg.svg");
+    background-position: 300px -6px;
+    background-size:71%;
+}
+
+
+
+@media only screen and (max-width: 770px) {
+    .sectionStyle{
+        background-position: center;
+        background-size:91%;
+
+        background-image: url(/static/media/bgimg.7cc11c6a.svg);
+        
+        background-position: 20px 60px;
+        width: 100%;
+    }
+}
+
+@media 
+  (min-width: 770px) 
+  and (max-width: 1080px) {
+
+    .sectionStyle{
+        background-position: center;
+        background-size:71%;
+
+        background-image: url(/static/media/bgimg.7cc11c6a.svg);
+        
+        background-position: 278px 60px;
+        width: 100%;
+    }
+}
+
+@media 
+  (min-width: 770px) 
+  and (max-width: 1080px) {
+
+    .content{
+        margin-top:80%;
+    margin-left: 33%;
+    width: 55%;
+    font-size: 30px;
+      
+    }
+    
+}
+
+

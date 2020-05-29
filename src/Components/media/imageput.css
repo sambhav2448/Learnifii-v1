@@ -1,0 +1,23 @@
+.fileContainer {
+    border: 1.5px solid #c5c5c5;
+    background: #fff;
+     box-shadow: 0px 0px 0px 0 rgba(0, 0, 0, 0.05); 
+     
+     padding:30px 30px;
+   
+}
+
+.fileContainer:hover {
+   background: rgba(238, 238, 238, 0.842);
+   border: 1.5px solid black;
+
+   
+}
+
+.fileContainer .chooseFileButton {
+background: #F07114;
+}
+
+.fileContainer .chooseFileButton:hover {
+   background: #F07114fd;
+   }
